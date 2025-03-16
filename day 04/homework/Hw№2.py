@@ -29,5 +29,6 @@ tool = "piano"
 print(tool)
 
 #game > minecraft
-print - game
-print(print)
+#print -> game
+game = "minecraft"
+print(game)

@@ -4,4 +4,3 @@ num3 = 93 * 6
 num4 = 12 / 4
 num5 = 14 // 5
 num6 = 15 % 6
-print(num6)
